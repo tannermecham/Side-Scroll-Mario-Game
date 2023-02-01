@@ -1,5 +1,9 @@
 # Side-Scroll-Mario-Game
 
+## About:
+
+This is a bare bones remake of the classic side-scroller, Super Mario Brothers. Allows Mario to traverse a 2-dimensional side-scrolling map and interact with tubes & goombas, jump, & shoot fireballs.
+
 ## TO RUN:
 
 
