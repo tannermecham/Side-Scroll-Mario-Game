@@ -16,16 +16,11 @@ If this does not work, execute Java command Javac *.java to compile and run the 
 
 There in-game commands available are as follows below:
 
-  *  g:  Toggles the users ability to place a goomba on the map. Pressing once allows the user to click on the game screen to drop a goomba, pressing again disables.
-  
-  *  t: Toggles the users ability to place a tube on the map. Pressing once allows the user to click on the game screen to place a tub, pressing again disables.
-  
-&nbsp;&nbsp;space:&nbsp;&nbsp;Jump 
-  
-&nbsp;&nbsp;s:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Save the map
-
-&nbsp;&nbsp;l:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loads the previously saved map. The map saved in file 'map.json' will automatically load on startup. To load to a blank game, delete this file.
-
-&nbsp;&nbsp;ctrl:&nbsp;&nbsp;&nbsp;Shoot a fireball
+   * g:  Toggles the users ability to place a goomba on the map. Pressing once allows the user to click on the game screen to drop a goomba, pressing again disables. <br>
+   * t:  Toggles the users ability to place a tube on the map. Pressing once allows the user to click on the game screen to place a tub, pressing again disables. <br>
+   * space:  Jump <br>
+   * s:  Save the map <br>
+   * l:  Loads the previously saved map. The map saved in file 'map.json' will automatically load on startup. To load to a blank game, delete this file. <br>
+   * ctrl:  Shoot a fireball <br>
 
 To exit and quit the game, simply close the game window.
